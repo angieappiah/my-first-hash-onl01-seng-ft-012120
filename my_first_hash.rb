@@ -4,7 +4,7 @@ def my_hash(hash)
 end
 
 def 
-  the_manifest = {}
+  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil painting" => 3}
   the_manifest ["oil painting"]
 end 
 
