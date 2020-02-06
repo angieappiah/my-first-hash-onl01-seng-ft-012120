@@ -3,7 +3,10 @@ def my_hash(hash)
    my_hash["food"]
 end
 
-
+def 
+  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil painting" => 3}
+  the_manifest ["oil painting"]
+end 
 
 
 
